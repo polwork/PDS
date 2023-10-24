@@ -1,6 +1,6 @@
 <div align=left><div>
 
-# U2PNet: Polarization-Driven Solution to Combined Scattering and Uneven Illumination in Underwater Imagery
+# PDS：Polarization-Driven Solution to Combined Scattering and Uneven Illumination in Underwater Imagery
 
 <div align=left><div>
 
