@@ -19,9 +19,9 @@ The acquired mosaicked polarization image can be demosaicked using [PCDC](https:
 
 ## Videos
 
-<div align=center><img src="Video/Video1-Ori.gif" width="165" height="145"><img src="https://github.com/polwork/PDS/blob/main/Video/Viedeo1-U2P.gif" width="165" height="145">  <img src="https://github.com/polwork/PDS/blob/main/Video/Viedeo2-Ori.gif" width="165" height="145" ><img src="https://github.com/polwork/PDS/blob/main/Video/Viedeo2-U2P.gif" width="165" height="145"><div>
+<div align=center><img src="Video/Video1-Ori.gif" width="165" height="145"><img src="Video/Video1-U2P.gif" width="165" height="145">  <img src="Video/Video2-Ori.gif" width="165" height="145" ><img src="Video/Video2-U2P.gif" width="165" height="145"><div>
 
-<div align=center><img src="Video/Video3-Ori.gif" width="165" height="145"><img src="https://github.com/polwork/PDS/blob/main/Video/Viedeo3-U2P.gif" width="165" height="145">  <img src="https://github.com/polwork/PDS/blob/main/Video/Viedeo4-Ori.gif" width="165" height="145" ><img src="https://github.com/polwork/PDS/blob/main/Video/Viedeo4-U2P.gif" width="165" height="145"><div>
+<div align=center><img src="Video/Video3-Ori.gif" width="165" height="145"><img src="Video/Video3-U2P.gif" width="165" height="145">  <img src="Video/Video4-Ori.gif" width="165" height="145" ><img src="Video/Video4-U2P.gif" width="165" height="145"><div>
 
 <div align=left><div>
 
