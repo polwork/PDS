@@ -18,6 +18,7 @@ The acquired mosaicked polarization image can be demosaicked using [PCDC](https:
 [Code]() will be released when the paper is accepted.
 
 ## Videos
+For proper webpage display, all videos have been downsampled. The original videos are available for download in the Datasets section.
 
 <div align=center><img src="Video/Video1-Ori.gif" width="165" height="145"><img src="Video/Video1-U2P.gif" width="165" height="145">  <img src="Video/Video2-Ori.gif" width="165" height="145" ><img src="Video/Video2-U2P.gif" width="165" height="145"><div>
 
