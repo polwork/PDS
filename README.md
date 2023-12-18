@@ -15,11 +15,13 @@ We use a polarization camera with micro polarization filters array (LUCID, PHX05
 
 The acquired mosaicked polarization image can be demosaicked using [PCDC](https://github.com/polwork/PCDP) or [Demosaicking-DoFP-images-using-Newton-polynomial-interpolation-and-polarization-difference-model](https://github.com/polwork/Demosaicking-DoFP-images-using-Newton-polynomial-interpolation-and-polarization-difference-model).
 
-### Underwater Enhancement
 
-<div align=center><img src="Real Underwater Polarization Data/video10_frame13.bmp" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r20.bmp" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image60Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r60.bmp" width="165" height="145"><div>
+<div align=left><div>
+### Real Underwater Polarization Data Examples
 
+<div align=center><img src="Real Underwater Polarization Data/video16_frame2.bmp" width="165" height="145" ><img src="Real Underwater Polarization Data/video19_frame3.bmp" width="165" height="145">    <img src="Real Underwater Polarization Data/video3_frame5.bmp" width="165" height="145" ><img src="Real Underwater Polarization Data/video17_frame2.bmp" width="165" height="145"><div>
 
+<div align=left><div>
 ## Code
 
 [Code]() will be released when the paper is accepted.
