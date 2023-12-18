@@ -10,6 +10,8 @@
 
 [Real Underwater Polarization Data]() will be released when the paper is accepted.
 
+Some selected images can be viewed under [this path] (https://github.com/polwork/PDS/Real Underwater Polarization Data).
+
 We use a polarization camera with micro polarization filters array (LUCID, PHX050S), whose spatial resolution is 2448 × 2048.
 The acquired mosaicked polarization image can be demosaicked using [PCDC](https://github.com/polwork/PCDP) or [Demosaicking-DoFP-images-using-Newton-polynomial-interpolation-and-polarization-difference-model](https://github.com/polwork/Demosaicking-DoFP-images-using-Newton-polynomial-interpolation-and-polarization-difference-model).
 
